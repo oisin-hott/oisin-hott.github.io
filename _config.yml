@@ -10,6 +10,7 @@ baseurl: ""
 github_username: oisin-hott
 minimal_mistakes_skin: dark
 search: true
+breadcrumbs: true   
 locale: en-IE
 
 # Build settings
