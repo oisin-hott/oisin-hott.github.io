@@ -26,7 +26,7 @@ arm_deep_dives:
     url: "/projects/robotic-arm/pcb/"
     btn_label: "Read more"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/robotic-arm/cycloidal-teaser.jpg
+  - image_path: /assets/images/Cycloidal.png
     alt: "Cycloidal drive"
     title: "Cycloidal Drive & Mechanical Design"
     excerpt: "Compact high-reduction cycloidal gearbox, differential wrist and printed bearing retention."
