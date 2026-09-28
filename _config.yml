@@ -1,14 +1,14 @@
 # Site settings
-title: Oisin LASTNAME
-email: YOUR-EMAIL@example.com
+title: Oisin Hott
+email: oisin.hott@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Engineering portfolio of Oisin LASTNAME, a mechanical engineer working
+  Engineering portfolio of Oisin Hott, a mechanical engineer working
   across robotics, mechatronics and embedded systems. Projects include a
   6-DOF robotic arm, ROS2 software and hardware design.
-url: "https://YOUR-GITHUB-USERNAME.github.io"
+url: "https://oisin-hott.github.io"
 baseurl: ""
-github_username: YOUR-GITHUB-USERNAME
-minimal_mistakes_skin: default # other options: air, aqua, contrast, dark, dirt, mint, neon, plum, sunrise
+github_username: oisin-hott
+minimal_mistakes_skin: dark
 search: true
 locale: en-IE
 
@@ -35,29 +35,29 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Oisin LASTNAME"
+  name   : "Oisin Hott"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Mechanical engineer (MSc, UCD) building robots at the intersection of mechanical design, embedded systems and C++/ROS2."
   location: "Dublin, Ireland"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:YOUR-EMAIL@example.com"
+      url: "mailto: oisin.hott.com"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/YOUR-LINKEDIN/"
+      url: "https://www.linkedin.com/in/oisin-hott-734795291/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/YOUR-GITHUB-USERNAME"
+      url: "https://github.com/oisin-hott"
 
 footer:
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/YOUR-LINKEDIN/"
+      url: "https://www.linkedin.com/in/oisin-hott-734795291/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/YOUR-GITHUB-USERNAME"
+      url: "https://github.com/oisin-hott"
 
 defaults:
   # _posts (only used if you add blog posts later)
