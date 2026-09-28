@@ -3,13 +3,13 @@ layout: splash
 title: "Oisin Hott | Engineering Portfolio"
 permalink: /
 header:
-  overlay_image: /assets/images/home/hero.jpg
+  overlay_image: /assets/images/PCBKiCAD.png
   overlay_filter: 0.55
 excerpt: "Mechanical engineer building robots across mechanical design, embedded systems and C++/ROS2."
 
 # ---------- Featured project ----------
 featured_arm:
-  - image_path: /assets/images/robotic-arm/teaser.jpg
+  - image_path: /assets/images/Assem1.JPG
     alt: "6-DOF robotic arm"
     title: "6-DOF Robotic Arm"
     excerpt: "A six-axis arm designed and built from scratch: custom PCB, closed-loop control on a Teensy 4.1, and a full ROS2 / MoveIt2 software stack."
@@ -19,7 +19,7 @@ featured_arm:
 
 # ---------- Robotic arm deep dives ----------
 arm_deep_dives:
-  - image_path: /assets/images/robotic-arm/pcb-teaser.jpg
+  - image_path: /assets/images/PCBRender.png
     alt: "Custom control PCB"
     title: "Custom Control PCB"
     excerpt: "2-layer KiCad board integrating TMC2209 drivers, MT6701 encoders and a Teensy 4.1."
