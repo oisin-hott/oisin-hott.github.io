@@ -20,8 +20,9 @@ A six-axis robotic arm designed, built and programmed end to end as a personal p
 The goal was to work across the full mechatronics stack: mechanical design, custom electronics,
 embedded firmware and ROS2 motion planning, and to make each layer do the job it is best suited to.
 
-<!-- TODO: replace with a short demo video (YouTube ID) once MK1 is running -->
-{% include video id="YOUTUBE-VIDEO-ID" provider="youtube" %}
+<video controls muted playsinline width="100%">
+  <source src="/assets/images/Video Project.mp4" type="video/mp4">
+</video>
 
 **Status:** MK1 in final assembly, waiting on the last electronics. Full simulation stack complete.
 
