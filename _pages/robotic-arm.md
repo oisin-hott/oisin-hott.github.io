@@ -3,7 +3,7 @@ title: "6-DOF Robotic Arm"
 permalink: /projects/robotic-arm/
 excerpt: "A 6-DOF robotic arm designed and built from scratch: custom PCB, closed-loop motor control on a Teensy 4.1, and a full ROS2 / MoveIt2 software stack."
 header:
-  overlay_image: /assets/images/robotic-arm/hero.jpg
+  overlay_image: /assets/images/LandscapeWorkbench.jpg
   overlay_filter: 0.5
   teaser: /assets/images/robotic-arm/teaser.jpg
   actions:
